@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header></header>
+    <main>
+    <h1>Eleve seu negocio digital a outro nivel.
+    <strong>Com o curso de html do chicutinho!</strong></h1>
+    <p>Olá! Sou Chicotinho, desenvolvedor Front-end com especialidade em React, HTML e CSS. Ajudo pequenos negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
+    <a href="https://www.youtube.com/">Youtube</a>
+    <a href="https://github.com/Rebol2/repositorio-HTML-estudos">github</a> 
+    <img src="image.png" alt="chicutinho"width="400" height="400">
+    </main>
+    <footer></footer>
+</body>
+</html>
