@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porttinho</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CHICO <strong>CORPORATION</strong></h1>
+    </header>
+
+    <main>
+        <h1>Francisco Elias de Araújo</h1>
+        <h2>Programador e Webdesigner</h2>
+        <p>Sou programador web desde 1980 e sempre à procura de novos desafios. Sou sênior em <span>cactoscript e CAIC0.</span></p>
+        <a href="https://www.youtube.com/" target="_blank">Youtube</a></p>
+        <a href="https://github.com/Rebol2/repositorio-HTML-estudos/tree/main" target="_blank">Github</a></p>
+
+        <img src="image.png" alt="Francisco Elias de Araújo" width="200" height="200">
+    </main>
+
+    <footer>
+        <p><strong>Contatos:</strong></p>
+        <ul>
+            <li>(61) 9999-9999</li>
+            <li>barroschico43@gmail.com</li>
+        </ul>
+        <p>Todos os direitos reservados a <span>ChicoTech</span></p>
+    </footer>
+</body>
+</html>
+
+
+EXAMPLE OF CSS
+body{
+    background-color: #252627;
+    color: #F2EFE9;
+}
+strong{
+    color:#22D4FD;
+    border: 1px solid;
+}
+
+span{
+    color: brown;
+
+}
+header{
+    font-weight: bold;
+}
+
